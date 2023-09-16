@@ -1,0 +1,16 @@
+{
+  "name": "e_commerce_node_server",
+  "version": "1.0.0",
+  "description": "This document provides instructions for interacting with the Node server and details the available APIs and their endpoints.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
